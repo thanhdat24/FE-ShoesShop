@@ -1,2 +1,2 @@
 export { default as UserTableRow } from './UserTableRow';
-export { default as UserTableToolBar } from './UserTableToolBar';
+export { default as UserTableToolBar } from './UserTableToolbar';
